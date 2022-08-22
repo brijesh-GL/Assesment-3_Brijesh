@@ -1,0 +1,34 @@
+{
+  "list": [
+    {
+      "title": "Anand",
+      "imdbRating": "8.9",
+      "date": "1978",
+      "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SY500_CR0,0,356,500_AL_.jpg"
+    },
+    {
+      "title": "Anand",
+      "imdbRating": "8.9",
+      "date": "2012",
+      "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SY500_CR0,0,356,500_AL_.jpg"
+    },
+    {
+      "title": "Kahani",
+      "imdbRating": "8.9",
+      "date": "2012",
+      "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SY500_CR0,0,356,500_AL_.jpg"
+    },
+    {
+      "title": "Sahid",
+      "imdbRating": "8.9",
+      "date": "2012",
+      "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMDE1NjQ1Nl5BMl5BanBnXkFtZTgwMDAyMTUzMDE@._V1_SY500_CR0,0,374,500_AL_.jpg"
+    },
+    {
+      "title": "Dil Chahta Hai",
+      "imdbRating": "8.9",
+      "date": "2001",
+      "img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTIyODkwNzY2NF5BMl5BanBnXkFtZTgwMzE5NDUzNTE@._V1_SY250_CR0,0,187,250_AL_.jpg"
+    }
+  ]
+}
